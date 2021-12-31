@@ -2,4 +2,5 @@
 <ol>
     <li>Session 1 : Modern JS-ES6 and Destructuring Object</li>
     <li>Session 2 : Callback & Promise, DOM, and Babel </li>
+    <li>Session 3 and 4 : Introduction to React </li>
 </ol>
