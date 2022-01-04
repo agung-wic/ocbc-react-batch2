@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-// import Hero from './components/hero';
-// import Users from './components/user';
-import Hero from './components/hero';
+import React from 'react'
+import Hello from './components/Hello';
+import Time from './components/Time';
 
 function App() {
   return (
@@ -20,8 +20,8 @@ function App() {
         >
           Learn React
         </a>
-        {/* <Users /> */}
-        <Hero name = 'Captain America' logo={logo}/>
+        <Hello />
+        <Time />
       </header>
     </div>
   );
