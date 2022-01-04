@@ -1,0 +1,15 @@
+.card{
+    text-align: left;
+    width: 60%;
+    margin: auto;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    box-shadow: 7px 15px 15px 5px rgb(214, 213, 213);
+    border-radius: 15px;
+    background-color: rgb(53, 136, 184);
+    color: white;
+}
+
+.card p{
+    text-align: justify;
+}
