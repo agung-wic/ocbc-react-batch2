@@ -5,4 +5,7 @@
     <li>Session 3 and 4 : Introduction to React </li>
     <li>Session 5 and 6 : Statefull and Stateless Component, Hooks Concept, Component lifecycle, and Fetching data </li>
     <li>Session 7 and 8 : React App with Flask Backend, Handling CORS, Styling Component and UI Framework </li>
+    <li>Session 9  : React Router</li>
+    <li>Session 10 : State Management with Redux</li>
+    <li>Session 11 : Redux Middleware</li>
 </ol>

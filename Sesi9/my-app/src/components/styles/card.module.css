@@ -1,0 +1,23 @@
+.card {
+  background-color: #777;
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+  border-radius: 2em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+#ha1 {
+  font-size: 3em;
+}
+
+.haa1 {
+  font-weight: 700;
+  font-size: 5em;
+}
